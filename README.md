@@ -1,6 +1,3 @@
-# Hi, I'm zzzplso0 👋
-기술보다 개발.
-
 ## skills.
 
 ## projects.
